@@ -1,1 +1,1 @@
-# Fashion-Class-Classification from udemy
+# Fashion-Class-Classification
